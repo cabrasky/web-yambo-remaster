@@ -1,0 +1,6 @@
+[submodule "frontend/app"]
+	path = frontend/app
+	url = https://github.com/cabrasky/web-yambo-frontend
+[submodule "backend/app"]
+	path = backend/app
+	url = https://github.com/cabrasky/web-yambo-backend
